@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "ดาวน์โหลด__1_-removebg-preview(5)",
+  "identifier": "texture:4841-0e35d8a6-9c55-4dcf-be7a-68a670fb7416",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "ebc000212fca616ff0397017e50b4af3",
+  "assetLocator": "textures/ดาวน์โหลด__1_-removebg-preview(5).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 222,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 125,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "ebc000212fca616ff0397017e50b4af3",
+      "colorCount": 4423,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.803635815164625,
+      "pixelsHigh": 222,
+      "pixelsWide": 125
+    }
+  ]
+}

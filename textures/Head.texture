@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Head",
+  "identifier": "texture:6674-8504e341-6bc6-4da3-89af-f1c6471f08f3",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "10bc904cacfe34fe78c6a8039197bd54",
+  "assetLocator": "textures/Head.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 258,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 261,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "10bc904cacfe34fe78c6a8039197bd54",
+      "colorCount": 18204,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.974190069026321,
+      "pixelsHigh": 258,
+      "pixelsWide": 261
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Head-removebg-preview",
+  "identifier": "texture:73101-b53ff5ac-9883-4936-b375-74effdf050ce",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "23b0dd10ba0b280713a70ee4a85a0904",
+  "assetLocator": "textures/Head-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 258,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 261,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "23b0dd10ba0b280713a70ee4a85a0904",
+      "colorCount": 4075,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.1941713328145767,
+      "pixelsHigh": 258,
+      "pixelsWide": 261
+    }
+  ]
+}
